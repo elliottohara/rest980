@@ -1,9 +1,9 @@
 {
   "port": 3000,
-  "blid": "",
-  "password": "",
-  "robotIP": "",
-  "firmwareVersion": 1,
+  "blid": "6977840022212550",
+  "password": "ONJ6Jc8oCVOED4ct",
+  "robotIP": "192.168.1.104",
+  "firmwareVersion": 2,
   "enableLocal": "yes",
   "enableCloud": "yes",
   "keepAlive": "yes",
